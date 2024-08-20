@@ -1,5 +1,4 @@
 import "./Home.css";
-import React from 'react';
 import Blog from '../../assets/blog.jpg';
 import './Home.css';
 import ListaPostagens from '../../assets/components/postagens/listaPostagem/ListaPostagem';
